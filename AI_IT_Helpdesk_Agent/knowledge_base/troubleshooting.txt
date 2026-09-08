@@ -1,0 +1,80 @@
+IT TROUBLESHOOTING KNOWLEDGE BASE
+
+1.Company Websites Not Loading
+
+Problem:
+The laptop is connected to Wi-Fi, but company websites are not loading.
+
+Possible causes:
+- DNS resolution issue
+- Network configuration issue
+- Router connectivity problem
+- Network adapter issue
+
+Basic troubleshooting:
+1. Check whether other websites are accessible.
+2. Disconnect and reconnect to Wi-Fi.
+3. Restart the router.
+4. Check the network configuration.
+5. Restart the laptop.
+6. If the problem continues, contact the network administrator.
+
+
+2.Development Laptop Running Slowly
+
+Problem:
+The laptop becomes extremely slow after opening multiple development tools.
+
+Possible causes:
+- High memory usage
+- Too many background applications
+- Low storage space
+- Unnecessary startup applications
+
+Basic troubleshooting:
+1. Close unnecessary applications.
+2. Check memory usage.
+3. Check available storage space.
+4. Disable unnecessary startup applications.
+5. Restart the laptop.
+6. Run the development tools one at a time and check the system performance.
+
+
+3.Development Application Not Responding
+
+Problem:
+A development application stops responding while working on a project.
+
+Possible causes:
+- High memory usage
+- Application process failure
+- Background process conflict
+- Software issue
+
+Basic troubleshooting:
+1. Wait briefly to check whether the application responds.
+2. Close unnecessary applications.
+3. Restart the application.
+4. Check available system memory.
+5. Restart the laptop.
+6. Check whether an application update is available.
+
+
+4.Laptop Plugged In But Battery Not Charging
+
+Problem:
+The laptop shows that the charger is connected, but the battery percentage is not increasing.
+
+Possible causes:
+- Charger connection issue
+- Faulty charging adapter
+- Power outlet problem
+- Battery health issue
+
+Basic troubleshooting:
+1. Check the power outlet.
+2. Check the charger connection.
+3. Try another compatible power outlet.
+4. Restart the laptop.
+5. Check the battery status.
+6. If the problem continues, contact technical support.
